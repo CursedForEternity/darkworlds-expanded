@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "darkworlds_expanded:dust_dunes_features",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 9,
+    "separation": 6,
+    "salt": 4145
+  }
+}

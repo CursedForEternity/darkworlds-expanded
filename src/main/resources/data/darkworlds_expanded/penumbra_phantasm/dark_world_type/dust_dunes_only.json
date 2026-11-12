@@ -1,0 +1,23 @@
+{
+  "block_tag": "darkworlds_expanded:dust_dunes_only",
+  "block_amount": 14,
+  "noise_settings": "darkworlds_expanded:dark_library_noise_settings",
+  "dimension_type": "darkworlds_expanded:dark_library",
+  "biome_source": {
+    "type": "minecraft:multi_noise",
+    "biomes": [
+        {
+          "biome": "darkworlds_expanded:dark_library_dust_dunes",
+          "parameters": {
+            "temperature": [0,1],
+            "humidity": 0,
+            "continentalness": 0,
+            "erosion": 0,
+            "depth": 0,
+            "weirdness": 0,
+            "offset": 0
+          }
+        }
+      ]
+  }
+}

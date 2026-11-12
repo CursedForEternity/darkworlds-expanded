@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:jigsaw",
+  "biomes": "darkworlds_expanded:broken_glass_bridges",
+  "step": "surface_structures",
+  "spawn_overrides": {},
+  "max_distance_from_center": 116,
+  "size": 7,
+  "start_height": {
+    "absolute": 240
+  },
+  "use_expansion_hack": false,
+  "start_pool": "darkworlds_expanded:broken_glass/bridges"
+}

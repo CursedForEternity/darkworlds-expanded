@@ -1,0 +1,47 @@
+{
+  "has_precipitation": false,
+  "temperature": 2,
+  "downfall": 0,
+  "effects": {
+    "foliage_color": 10387789,
+    "grass_color": 9470285,
+    "sky_color": 16769658,
+    "fog_color": 15260234,
+    "water_color": 4159204,
+    "water_fog_color": 329011
+  },
+  "spawners": {
+    "monster": [],
+    "creature": [],
+    "ambient": [],
+    "axolotls": [],
+    "underground_water_creature": [],
+    "water_creature": [],
+    "water_ambient": [],
+    "misc": []
+  },
+  "spawn_costs": {},
+  "carvers": {},
+  "features": [
+    [
+    ],
+    [
+      "darkworlds_expanded:wastes_detail_sand",
+      "minecraft:patch_cactus",
+      "minecraft:patch_cactus_decorated",
+      "minecraft:patch_cactus_desert",
+      "darkworlds_expanded:wastes_detail_dirt"
+    ],
+    [
+      "minecraft:patch_dead_bush"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    []
+  ]
+}

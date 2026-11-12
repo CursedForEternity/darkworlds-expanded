@@ -1,0 +1,23 @@
+{
+  "block_tag": "darkworlds_expanded:meat_factory",
+  "block_amount": 15,
+  "noise_settings": "darkworlds_expanded:meat_factory_noise_settings",
+  "dimension_type": "darkworlds_expanded:meat_factory",
+  "biome_source": {
+    "type": "minecraft:multi_noise",
+    "biomes": [
+        {
+          "biome": "darkworlds_expanded:meat_factory_main",
+          "parameters": {
+            "temperature": 0.5,
+            "humidity": 0,
+            "continentalness": 0.1,
+            "erosion": 0,
+            "depth": 0.2,
+            "weirdness": 0.3,
+            "offset": 0
+          }
+        }
+      ]
+  }
+}

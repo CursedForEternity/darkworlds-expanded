@@ -1,0 +1,7 @@
+{
+  "biome": "darkworlds_expanded:dark_library_dust_dunes",
+  "sound_event": "darkworlds_expanded:music_cliffs",
+  "loops": true,
+  "min_delay": 0, 
+  "max_delay": 0
+}

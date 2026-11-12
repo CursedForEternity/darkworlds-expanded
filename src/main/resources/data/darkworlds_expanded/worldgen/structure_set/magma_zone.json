@@ -1,0 +1,15 @@
+{
+  "structures": [
+    {
+      "structure": "darkworlds_expanded:magma_bridges",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 4,
+    "separation": 2,
+    "spread_type": "linear",
+    "salt": 12345678
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:jigsaw",
+  "biomes": "darkworlds_expanded:magma_zone",
+  "step": "surface_structures",
+  "spawn_overrides": {},
+  "max_distance_from_center": 116,
+  "size": 7,
+  "start_height": {
+    "absolute": 0
+  },
+  "use_expansion_hack": false,
+  "start_pool": "darkworlds_expanded:lost_cliffs/cliffsnoend",
+  "project_start_to_heightmap": "OCEAN_FLOOR_WG"
+}

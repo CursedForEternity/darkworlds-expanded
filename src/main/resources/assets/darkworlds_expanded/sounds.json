@@ -1,0 +1,50 @@
+{
+  "music_cliffs": {
+    "sounds":
+    [
+      "darkworlds_expanded:mus_cliffs"
+    ]
+  },
+  "music_meat_factory": {
+    "sounds":
+    [
+      "darkworlds_expanded:mus_meat_factory"
+    ]
+  },
+  "music_blinding_darkness": {
+    "sounds":
+    [
+      "darkworlds_expanded:mus_blinding_darkness"
+    ]
+  },
+  "music_lost_forest": {
+    "sounds":
+    [
+      "darkworlds_expanded:mus_lost_forest"
+    ]
+  },
+  "music_mechanica": {
+    "sounds":
+    [
+      "darkworlds_expanded:mus_mechanica"
+    ]
+  },
+  "music_sunset_minecraft": {
+    "sounds":
+    [
+      "darkworlds_expanded:mus_sunset_minecraft"
+    ]
+  },
+  "music_medium": {
+    "sounds":
+    [
+      "darkworlds_expanded:mus_medium"
+    ]
+  },
+  "music_sanctuary_minecraft": {
+    "sounds":
+    [
+      "darkworlds_expanded:mus_sanctuary_minecraft"
+    ]
+  }
+}

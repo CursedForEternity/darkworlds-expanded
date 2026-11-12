@@ -1,0 +1,35 @@
+{
+  "block_tag": "darkworlds_expanded:the_smeltery",
+  "block_amount": 6,
+  "noise_settings": "darkworlds_expanded:the_smeltery_noise_settings",
+  "dimension_type": "darkworlds_expanded:the_smeltery",
+  "biome_source": {
+    "type": "minecraft:multi_noise",
+    "biomes": [
+        {
+          "biome": "darkworlds_expanded:magma_zone",
+          "parameters": {
+            "temperature": 0.5,
+            "humidity": 0,
+            "continentalness": 0.1,
+            "erosion": 0,
+            "depth": 0.2,
+            "weirdness": 0.3,
+            "offset": 0
+          }
+        },
+        {
+          "biome": "darkworlds_expanded:inferno_city",
+          "parameters": {
+            "temperature": -0.5,
+            "humidity": 0,
+            "continentalness": 0.7,
+            "erosion": 0,
+            "depth": 0,
+            "weirdness": 0,
+            "offset": 0
+          }
+        }
+      ]
+  }
+}

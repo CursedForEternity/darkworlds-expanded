@@ -1,0 +1,14 @@
+{
+  "values": [
+    "minecraft:furnace",
+    "minecraft:lava",
+    "minecraft:grindstone",
+    "minecraft:magma_block",
+    "minecraft:blast_furnace",
+    "minecraft:smoker",
+    "minecraft:campfire",
+    "minecraft:detector_rail",
+    "minecraft:polished_andesite",
+    "minecraft:coal_block"
+  ]
+}

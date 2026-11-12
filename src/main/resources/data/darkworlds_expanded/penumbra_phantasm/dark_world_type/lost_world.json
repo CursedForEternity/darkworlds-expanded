@@ -1,0 +1,47 @@
+{
+  "block_tag": "darkworlds_expanded:lost_world",
+  "block_amount": 15,
+  "noise_settings": "darkworlds_expanded:lost_world_noise_settings",
+  "dimension_type": "darkworlds_expanded:lost_world",
+  "biome_source": {
+    "type": "minecraft:multi_noise",
+    "biomes": [
+        {
+          "biome": "darkworlds_expanded:lost_forest",
+          "parameters": {
+            "temperature": 0.5,
+            "humidity": 0,
+            "continentalness": 0.1,
+            "erosion": 0,
+            "depth": 0.2,
+            "weirdness": 0.3,
+            "offset": 0
+          }
+        },
+        {
+          "biome": "darkworlds_expanded:meat_factory_main",
+          "parameters": {
+            "temperature": 0.2,
+            "humidity": 0,
+            "continentalness": 0.3,
+            "erosion": 0,
+            "depth": 0.4,
+            "weirdness": 0.5,
+            "offset": 0
+          }
+        },
+        {
+          "biome": "darkworlds_expanded:lost_cliffs",
+          "parameters": {
+            "temperature": 0.8,
+            "humidity": 0.1,
+            "continentalness": 0.2,
+            "erosion": 0,
+            "depth": 0,
+            "weirdness": 0.1,
+            "offset": 0
+          }
+        }
+      ]
+  }
+}

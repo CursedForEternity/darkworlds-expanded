@@ -1,0 +1,42 @@
+{
+  "has_precipitation": false,
+  "temperature": 2,
+  "downfall": 0,
+  "effects": {
+    "foliage_color": 15132390,
+    "grass_color": 15790320,
+    "sky_color": 15790320,
+    "fog_color": 11579568,
+    "water_color": 16777215,
+    "water_fog_color": 14606046
+  },
+  "spawners": {
+    "monster": [],
+    "creature": [],
+    "ambient": [],
+    "axolotls": [],
+    "underground_water_creature": [],
+    "water_creature": [],
+    "water_ambient": [],
+    "misc": []
+  },
+  "spawn_costs": {},
+  "carvers": {},
+  "features": [
+    [
+      "darkworlds_expanded:lost_forest_plants"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      "darkworlds_expanded:lost_forest_trees"
+    ],
+    [],
+    []
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "biome.darkworlds_expanded.dark_library_main": "Great Library",
+  "biome.darkworlds_expanded.dark_library_main.description": "'The Knowledge of Realms'",
+  "biome.darkworlds_expanded.dark_library_dust_dunes": "The Dust Dunes",
+  "biome.darkworlds_expanded.dark_library_dust_dunes.description": "'Where Information Dies.'",
+
+  "biome.darkworlds_expanded.wastes_desert": "The Forgotten Desert",
+  "biome.darkworlds_expanded.wastes_desert.description": "'The Sands of Time Sit Still.'",
+  "biome.darkworlds_expanded.wastes_forest": "Dry Forest",
+  "biome.darkworlds_expanded.wastes_forest.description": "'Life has all but ceased.'",
+  "biome.darkworlds_expanded.wastes_monochrome_desert": "Monochrome Desert",
+  "biome.darkworlds_expanded.wastes_monochrome_desert.description": "'Don't forget, friend's lie within you.'",
+
+  "biome.darkworlds_expanded.broken_glass_bridges": "The Land of Broken Glass",
+  "biome.darkworlds_expandedbroken_glass_bridges.description": "'Darkness flows deep underneath you.'",
+
+  "biome.darkworlds_expanded.meat_factory_main": "§4THE MEAT FACTORY",
+  "biome.darkworlds_expanded.meat_factory_main.description": "§4'We're all flesh and bone.'",
+  "biome.darkworlds_expanded.lost_forest": "Lost Forest",
+  "biome.darkworlds_expanded.lost_forest.description": "'A Forgotten Memory.'",
+  "biome.darkworlds_expanded.lost_cliffs": "§8?????",
+  "biome.darkworlds_expanded.lost_cliffs.description": "§8'Dread fills the shadowed air.'",
+
+  "biome.darkworlds_expanded.inferno_city": "§7MECHANICA",
+  "biome.darkworlds_expanded.inferno_city.description": "§7'Smog Fills The Air. It's Hard to Breathe.'",
+  "biome.darkworlds_expanded.magma_zone": "§4Magma Zone",
+  "biome.darkworlds_expanded.magma_zone.description": "§4'Lava Flows Beneath You.'",
+  "itemGroup.darkworlds_expanded": "DARKWORLDS_EXP"
+}

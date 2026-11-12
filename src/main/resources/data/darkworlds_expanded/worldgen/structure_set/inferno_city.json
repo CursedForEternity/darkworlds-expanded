@@ -1,0 +1,15 @@
+{
+  "structures": [
+    {
+      "structure": "darkworlds_expanded:inferno_city",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 8,
+    "separation": 6,
+    "spread_type": "linear",
+    "salt": 12345678
+  }
+}

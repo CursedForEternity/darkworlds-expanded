@@ -1,0 +1,15 @@
+{
+  "structures": [
+    {
+      "structure": "darkworlds_expanded:lost_cliffs",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 6,
+    "separation": 3,
+    "spread_type": "linear",
+    "salt": 12345678
+  }
+}
